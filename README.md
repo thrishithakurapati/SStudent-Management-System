@@ -1,2 +1,2 @@
-# SStudent-Management-System
+# Student-Management-System
 C programming
